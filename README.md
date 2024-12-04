@@ -1,4 +1,4 @@
-👋 Hi There! AKSB here, Grad Student at University of Missouri, Kansas City|Ex-Infosys| Deep Learning and LLM enthusiast.
+👋 Hi There! Krishnasai Bharadwaj here, Grad Student at University of Missouri, Kansas City|Ex-Infosys| Deep Learning and LLM enthusiast.
 
 📚 Masters in Data Science and Analytics (Pursuing)|B.Tech in Computer Science and Engineering from Jawaharlal Nehru Technological University, India.
 
